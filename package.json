@@ -1,0 +1,25 @@
+{
+  "name": "input-output3d",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "axios": "^1.16.1",
+    "cheerio": "^1.2.0",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "form-data": "^4.0.5",
+    "imagetracerjs": "^1.2.6",
+    "potrace": "^2.1.8",
+    "puppeteer": "^25.1.0",
+    "sharp": "^0.34.5"
+  }
+}
